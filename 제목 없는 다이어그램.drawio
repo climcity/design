@@ -49,8 +49,66 @@
         <mxCell id="zZENEIvG0LnadRajqWwC-3" value="2025/09/13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZENEIvG0LnadRajqWwC-8" value="취소버튼을 대신하여 타이머 설정하여 무한정 대기 자동으로 닫히게 한다면?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zZENEIvG0LnadRajqWwC-8" value="취소버튼을 없애면 무한정 대기하는 상황이 발생할 수&amp;nbsp; 있음&lt;div&gt;이를 방지하기 위해서&amp;nbsp; 타이머 설정한다면?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="80" y="680" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-9" value="타이머 Reset" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZENEIvG0LnadRajqWwC-11" target="zZENEIvG0LnadRajqWwC-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="860" />
+              <mxPoint x="270" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-11" value="카드입력 중" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZENEIvG0LnadRajqWwC-12" target="zZENEIvG0LnadRajqWwC-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="910" />
+              <mxPoint x="270" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-12" value="비밀번호 입력 중" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZENEIvG0LnadRajqWwC-18" target="zZENEIvG0LnadRajqWwC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="960" />
+              <mxPoint x="270" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-18" value="휴대폰번호 입력 중" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="940" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-20" value="타이머 Reset" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="837" y="945" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZENEIvG0LnadRajqWwC-21" target="zZENEIvG0LnadRajqWwC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="1010" />
+              <mxPoint x="270" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZENEIvG0LnadRajqWwC-21" value="전자서명" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="990" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
