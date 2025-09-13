@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1" pages="3">
   <diagram name="페이지-1" id="I2Tp-xVVTpsO3wI6SStp">
     <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -138,10 +138,158 @@
         <mxCell id="9AJtDx6lGA5yL0fGM_cA-15" value="return" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9AJtDx6lGA5yL0fGM_cA-16" value="Hi&amp;nbsp; POS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9AJtDx6lGA5yL0fGM_cA-16" value="Client UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="740" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9AJtDx6lGA5yL0fGM_cA-17" value="확인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="900" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="페이지-1의 복사본" id="JqBNbffvO6D-06rz4zOP">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="NU9rvxvD35p526vAPIjV-0" />
+        <mxCell id="NU9rvxvD35p526vAPIjV-1" parent="NU9rvxvD35p526vAPIjV-0" />
+        <mxCell id="NU9rvxvD35p526vAPIjV-2" value="Dialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="600" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="600" y="240" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-4" value="Timmer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="622.5" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-5" value="Callback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="622.5" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="840" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-8" target="NU9rvxvD35p526vAPIjV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-8" value="RS232-C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="622.5" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-9" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="840" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-10" value="event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-11" value="message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-12" value="class library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="320" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-13" value="Client UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-14" value="&lt;strike&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;btnCncl&lt;/font&gt;&lt;/strike&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="622.5" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-15" value="lates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="60" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-16" value="2025/09/14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="120" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" target="NU9rvxvD35p526vAPIjV-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-18" value="취소버튼을 없애면 무한정 대기하는 상황이 발생할 수&amp;nbsp; 있음&lt;div&gt;이를 방지하기 위해서&amp;nbsp; 타이머 설정한다면?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="680" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="440" y="800" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-22" target="NU9rvxvD35p526vAPIjV-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="820" />
+              <mxPoint x="270" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-22" value="카드입력 중" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-24" target="NU9rvxvD35p526vAPIjV-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="870" />
+              <mxPoint x="270" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-24" value="비밀번호 입력 중" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-26" target="NU9rvxvD35p526vAPIjV-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="920" />
+              <mxPoint x="270" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-26" value="휴대폰번호 입력 중" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-27" value="이전에 없었던 case 발생" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=none;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="720" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-29" target="NU9rvxvD35p526vAPIjV-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="970" />
+              <mxPoint x="270" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-29" value="전자서명" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-30" value="Time Out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="440" y="840" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-31" value="Timer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="440" y="800" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="720" y="800" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="720" y="840" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-34" value="&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;&quot;OOO 대기 도중 time out 발생하여 작업이 취소 되었습니다&quot;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="720" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-35" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="80" y="740" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-36" value="Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="440" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-37" value="return" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="622.5" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-38" value="Client UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="720" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-39" value="확인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
           <mxGeometry x="760" y="900" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
