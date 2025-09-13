@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1" pages="2">
   <diagram name="페이지-1" id="I2Tp-xVVTpsO3wI6SStp">
     <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -152,44 +152,23 @@
       <root>
         <mxCell id="NU9rvxvD35p526vAPIjV-0" />
         <mxCell id="NU9rvxvD35p526vAPIjV-1" parent="NU9rvxvD35p526vAPIjV-0" />
-        <mxCell id="NU9rvxvD35p526vAPIjV-2" value="Dialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="600" y="200" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="600" y="240" width="200" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-4" value="Timmer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="622.5" y="440" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-5" value="Callback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="622.5" y="260" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="840" y="240" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-8" target="NU9rvxvD35p526vAPIjV-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-8" value="RS232-C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="622.5" y="320" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-9" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="840" y="200" width="200" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="NU9rvxvD35p526vAPIjV-10" value="event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
           <mxGeometry x="80" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ0gP2Bdqr-6UOoc1Cpb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-11" target="NU9rvxvD35p526vAPIjV-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NU9rvxvD35p526vAPIjV-11" value="message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
           <mxGeometry x="80" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-12" value="class library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="320" y="200" width="200" height="40" as="geometry" />
+        <mxCell id="QQ0gP2Bdqr-6UOoc1Cpb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NU9rvxvD35p526vAPIjV-1" source="NU9rvxvD35p526vAPIjV-12" target="NU9rvxvD35p526vAPIjV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NU9rvxvD35p526vAPIjV-12" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
+          <mxGeometry x="400" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NU9rvxvD35p526vAPIjV-13" value="Client UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NU9rvxvD35p526vAPIjV-14" value="&lt;strike&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;btnCncl&lt;/font&gt;&lt;/strike&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
-          <mxGeometry x="622.5" y="380" width="150" height="40" as="geometry" />
+          <mxGeometry x="400" y="280" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NU9rvxvD35p526vAPIjV-15" value="lates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
           <mxGeometry x="60" y="40" width="60" height="30" as="geometry" />
@@ -197,14 +176,6 @@
         <mxCell id="NU9rvxvD35p526vAPIjV-16" value="2025/09/14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="NU9rvxvD35p526vAPIjV-1">
           <mxGeometry x="120" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="gzxKSd5TzdaXJkzA4kEo" name="페이지-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
