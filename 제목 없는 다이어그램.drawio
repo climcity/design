@@ -50,7 +50,7 @@
           <mxGeometry x="120" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zZENEIvG0LnadRajqWwC-8" value="취소버튼을 대신하여 타이머 설정하여 자동으로 닫히게 한다면?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="720" width="390" height="30" as="geometry" />
+          <mxGeometry x="80" y="680" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
